@@ -154,6 +154,6 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Name:** K. Hari Priya
+**Name:** Gonigunta Shalusha
 
 Project: Speech Emotion Recognition using Deep Learning
